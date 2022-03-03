@@ -1,0 +1,17 @@
+[
+    {
+      "timestamp": "03/03/2022 12:57:35 pm",
+      "products": [],
+      "id": 1
+    },
+    {
+      "timestamp": "03/03/2022 13:05:10 pm",
+      "products": [],
+      "id": 2
+    },
+    {
+      "timestamp": "03/03/2022 14:15:20 pm",
+      "products": [ 7, 4],
+      "id": 3
+    }
+  ]
