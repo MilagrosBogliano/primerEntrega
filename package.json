@@ -6,7 +6,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilagrosBogliano/primerEntrega.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilagrosBogliano/primerEntrega/issues"
+  },
+  "homepage": "https://github.com/MilagrosBogliano/primerEntrega#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
 }
